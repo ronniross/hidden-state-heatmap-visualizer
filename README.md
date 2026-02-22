@@ -13,3 +13,7 @@ A set of scripts to visualize neuron activations, the evolution of hidden states
 <p align="center">
   <img src="https://github.com/ronniross/hidden-state-heatmap-visualizer/blob/main/heatmaps/heatmap-3.png" alt="heatmap-3" width="500"/>
 </p>
+
+---
+Ronni Ross  
+2026
